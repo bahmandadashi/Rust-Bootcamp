@@ -1,3 +1,3 @@
 #تمرینات دوره راست مکتب خانه
 
-##استاد علیرضا برجزدیان [https://github.com/AliRezaBoroujerdian]
+##استاد علیرضا بروجردیان[https://github.com/AliRezaBoroujerdian]
